@@ -1,3 +1,4 @@
 <?php
 
-    echo substr() ;
+    $a = "11123123";
+    echo substr($a,1,2) ;
