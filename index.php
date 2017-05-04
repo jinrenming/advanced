@@ -8,3 +8,4 @@
 
 echo "sdfsdf";
 
+exit;
