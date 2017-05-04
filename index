@@ -1,5 +1,5 @@
 <?php
 
-    $a = "11123123";
+    $a = "11123123qqq";
     echo substr($a,1,2) ;
     var_dump($a);
