@@ -6,6 +6,14 @@
  * Time: 15:50
  */
 
-echo "sdfsdf11231";
+exit('sdfs');
+echo phpinfo();
+exit;
+echo "sdfsdf112312211";
+echo "aaaa";
+
+echo "<br/>";
+
+echo "ssss";
 
 exit;
